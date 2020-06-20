@@ -29,3 +29,4 @@ print(tail(l)); //console.logs "List(2, 3, 4, 5, 6, 7, 8)"
 # How it works
 
 Please read the code to understand until we write something here.
+More is yet to come...
