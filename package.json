@@ -1,0 +1,24 @@
+{
+  "name": "functional-list",
+  "version": "1.0.0",
+  "description": "A 100% Functional List Implementation in JavaScript",
+  "main": "FunctionalList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bouzinabdotcom/FunctionalList.js.git"
+  },
+  "keywords": [
+    "list",
+    "lisp",
+    "functional"
+  ],
+  "author": "Omar Bouzinab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bouzinabdotcom/FunctionalList.js/issues"
+  },
+  "homepage": "https://github.com/bouzinabdotcom/FunctionalList.js#readme"
+}
